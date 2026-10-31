@@ -1,0 +1,115 @@
+{
+  "code": "KONYANG-DAEJEON",
+  "title": "SMASH KONYANG DAEJEON",
+  "school": "건양대",
+  "fullName": "건양대학교",
+  "campusName": "건양대학교 대전메디컬캠퍼스",
+  "tagline": "건양대를 부셔 (시험기간 스트레스 해소)",
+  "description": "건양대학교 대전메디컬캠퍼스를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 건양대학교 대전메디컬캠퍼스 3D 화면과 SMASH KONYANG DAEJEON 제목",
+  "url": "https://hong-iron.github.io/SMASH-KONYANG-DAEJEON/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "circle",
+    "center": "36.30696,127.34357,260"
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "id": "relation/8602247",
+      "n": "",
+      "why": "학교 건물 아님 — 캠퍼스 남동쪽 도안동 1575번지 대지(학교 땅이 아님)에 있고, 건물대장에는 노유자시설 '행복한우리복지관'으로 올라 있어 학교 건물이 아니다."
+    },
+    {
+      "id": "way/470001583",
+      "n": "건양타워",
+      "why": "학교 건물 아님 — 관저동로 건너편 관저동 1896번지 대지에 있는 '건양타워'(OpenStreetMap에는 상업 건물로 표시)로, 건양대학교 학교 땅 밖의 별도 건물이다."
+    },
+    {
+      "id": "way/226182991",
+      "n": "건양프라자",
+      "why": "학교 건물 아님 — 관저동로 건너편 관저동 1899번지 대지의 6층 상가 '건양프라자'로, 건물대장 용도가 근린생활시설이라 학교 건물이 아니다."
+    },
+    {
+      "id": "way/620279681",
+      "n": "",
+      "why": "학교 건물 아님 — 관저동로 건너편 관저동 1898번지 대지의 1층 상가로, 건물대장 용도가 근린생활시설이라 학교 건물이 아니다."
+    },
+    {
+      "at": [
+        36.3066468,
+        127.3442517
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 지상 층수가 0층인 이름 없는 기록이고 항공사진의 그 자리에는 나무와 화단만 있어 땅 위에 건물이 없다."
+    },
+    {
+      "at": [
+        36.3065021,
+        127.3442951
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 지상 층수가 0층인 이름 없는 작은 기록이고 항공사진의 그 자리에는 나무와 화단만 있다."
+    },
+    {
+      "at": [
+        36.3068317,
+        127.3419828
+      ],
+      "n": "간호대학 및 기숙사",
+      "why": "같은 건물 겹침 — 12번 건물과 같은 '간호대학 및 기숙사' 15층 대장 기록이 병원 서쪽 벽에 잘못 붙은 것으로, 그 자리에는 15층 건물이 없고 병원 건물의 일부만 있다."
+    }
+  ],
+  "look": {
+    "병원": {
+      "style": "ribbon",
+      "wall": "#d8d9d9",
+      "glass": "#2f6c72",
+      "frame": "#62ad8a"
+    },
+    "죽헌정보관": {
+      "style": "stone",
+      "wall": "#e8ecef",
+      "glass": "#1c4f86",
+      "frame": "#c4cad3"
+    },
+    "명곡관": {
+      "style": "stone",
+      "wall": "#dbdadf",
+      "glass": "#4a6781",
+      "frame": "#a7aeb6"
+    },
+    "건양 장례식장": {
+      "style": "stone",
+      "wall": "#e4e3e1",
+      "glass": "#34424c",
+      "frame": "#8c8d8c"
+    },
+    "의과학관": {
+      "style": "stone",
+      "wall": "#b0b6ba",
+      "glass": "#2f6c72",
+      "frame": "#6c7579"
+    },
+    "간호대학 및 기숙사": {
+      "style": "dorm",
+      "wall": "#d3cabf",
+      "glass": "#3f4a43",
+      "frame": "#a8a39a"
+    },
+    "간호대학": {
+      "style": "dorm",
+      "wall": "#d3cabf",
+      "glass": "#3f4a43",
+      "frame": "#a8a39a"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
